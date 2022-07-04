@@ -8,10 +8,9 @@
 * JavaScript (ES6)
   * OOP
   * Classes
-  * DOM API
   * AJAX
   * Promises
   * npm
 * React 
 
-https://ilya703.github.io/Marvel/
+https://ilya703.github.io/Employees-data-base/
